@@ -14,7 +14,7 @@
 
  - :ocean: I'm from Rio de Janeiro, Brazil
  - :round_pushpin: I live in Braga, Portugal
- - :mortar_board: I graduated in Marketing
+ - :mortar_board: I’m a bachelor in Marketing
  - :scroll: Before start coding, I thought I would be a UX designer and I actually have UX certifications
  - :globe_with_meridians: I've been an exchange student in Canada and Malta
 
