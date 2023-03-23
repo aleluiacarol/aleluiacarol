@@ -1,5 +1,4 @@
 
----
 
 
 <h3 align="center"> -- Hi there :wave: </h3>
@@ -40,4 +39,4 @@
  - :hourglass:Vue.js Framework
   </details>
 
----
+
