@@ -43,7 +43,7 @@
 ---
 
 
-<h4 align="center">:speaking_head:	Get in touch</h4>
+<h4 align="center">:speaking_head:	Get in touch --</h4>
 
 <section align="center">
 
