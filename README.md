@@ -40,4 +40,16 @@
  - :hourglass:Vue.js Framework
   </details>
 
+---
 
+
+<h4 align="center">:speaking_head:	Get in touch</h4>
+
+<section align="center">
+
+
+<a href="mailto:carolinasaleluia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anacarolinaaleluia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/aleluiacarol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
+ </section>
