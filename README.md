@@ -20,7 +20,7 @@
  - :world_map:	 I've been an exchange student in Canada and Malta
 
 
----
+
 
 
 <details> 
