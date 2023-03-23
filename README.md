@@ -3,7 +3,8 @@
 
 <h3 align="center"> -- Hi there :wave: </h3>
 
-<p align="center">:woman: I'm Carol | :computer: Software Development Student | :earth_africa: Braga, PT</p>
+<p align="center">
+:raising_hand_woman:	 I'm Carol | :computer: Software Development Student | :earth_africa: Braga, PT</p>
 
 <p align="center">:zap:Welcome to my GitHub Profile!:zap:</p>
 
@@ -16,7 +17,7 @@
  - :round_pushpin: I live in Braga, Portugal
  - :mortar_board: I’m a bachelor in Marketing
  - :scroll: Before I started coding, I thought I would be a UX designer and I actually have UX certifications
- - :globe_with_meridians: I've been an exchange student in Canada and Malta
+ - :world_map:	 I've been an exchange student in Canada and Malta
 
 
 ---
